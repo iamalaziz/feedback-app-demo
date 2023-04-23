@@ -14,7 +14,8 @@ This is a demo repo for Feedback app. This project is built to practice React wi
 
 ### Hosted Demo Link
 
-<img src="./screenshot" alt="Screenshot"/>
+<img width="1303" alt="screenshot" src="https://user-images.githubusercontent.com/81867375/233855922-b4fb66fb-63a6-4a61-a605-e3ac43e898a6.png">
+
 
 This project is hosted on <a href="https://vercel.com">Vercel</a>. Here is the <a href="https://react-feedback-app.vercel.app">link</a> - https://react-feedback-app.vercel.app
 
