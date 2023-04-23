@@ -1,6 +1,6 @@
 # feedback-app-demo
 
-This is a demo repo for Feedback app. This project is built to practice React with Crud operations. I want to keep this project private. If you are interested in, feel free to contact me.
+This is a demo repo for Feedback app. This project is built to practice React with Crud operations. I want to keep this project private. If you are interested in, feel free to contact me. This project can run only when you set up json-server on localhost.
 
 ### NPM packages and techs
 
